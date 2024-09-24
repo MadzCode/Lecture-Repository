@@ -30,7 +30,7 @@ Light/Dark platformer
 In this game the player will be given a torch.
 with this torch the player can light the way, but some area may be inaccessableunless the player turns off the light then some new paths will be avalible.
 
-> ### chosen idea overview:
+### chosen idea overview:
 Roblot limb game
 In this game the player will be a little robot who wants to get back to its toybox, the little robot has removable libs in which it can switch its arms or legs out with common household objects like spatulas for hitting enemies or a cup for transfering water to water a plant to make it grow.
 This game will have alot of enviromental puzzles for instance if you need to get high up and there is a kettle you will have to fill it with water and then you can be blasted higer when it boils.
