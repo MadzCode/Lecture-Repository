@@ -22,8 +22,8 @@
 | Paragraph | Text |
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
+  "firstName": "fred",
+  "lastName": "lastname",
   "age": `147'
 }
 ```
