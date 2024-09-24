@@ -32,18 +32,24 @@ with this torch the player can light the way, but some area may be inaccessableu
 
 ### **chosen idea overview:**
 Roblot limb game
-In this game the player will be a little robot who wants to get back to its toybox, the little robot has removable libs in which it can switch its arms or legs out with common household objects like spatulas for hitting enemies or a cup for transfering water to water a plant to make it grow.
-This game will have alot of enviromental puzzles for instance if you need to get high up and there is a kettle you will have to fill it with water and then you can be blasted higer when it boils.
+In this game the player will be a little robot who wants to get back to its toybox, the little robot has removable limbs in which it can switch its arms or legs out with common household objects like spatulas for hitting enemies or a cup to water plants.
+This game will have alot of enviromental puzzles such as distracting enemies with a jack-in-the-box.
 
 ## Engine
 Unreal Engine 5
 
-## Mechanics
+## Mechanics/systems
+Double Jump
+Flight
+Melee attack
+shooting
+point system
+Health
+sound system (for distracting enemies)
+Sticky mechanic 
 
 ## Prototype level
-The prototype level will take place in a childs bedroom, and will have various obstacles like blocks blocking the way, evil toys/small animals. 
-
-## Thoughts
+The prototype level will take place in a messy childs bedroom, and will have various obstacles like blocks blocking the way, evil toys/small animals, or dropped juice boxes making the ground sticky.
 
 
 
