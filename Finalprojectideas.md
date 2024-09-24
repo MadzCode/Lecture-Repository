@@ -38,9 +38,10 @@ This game will have alot of enviromental puzzles for instance if you need to get
 ## Engine
 Unreal Engine 5
 
-## Mechanics 
+## Mechanics
 
 ## Prototype level
+The prototype level will take place in a childs bedroom, and will have various obstacles like blocks blocking the way, evil toys/small animals. 
 
 ## Thoughts
 
