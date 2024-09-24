@@ -2,7 +2,7 @@
 ```markdown
 # HEADING 1
 ## HEADING 2
-## HeADING 3
+## HEADING 3
 
 ```
 
@@ -24,7 +24,7 @@
 {
   "firstName": "John",
   "lastName": "Smith",
-  "age": 25
+  "age": `147'
 }
 ```
 Here's a sentence with a footnote. [^1]
@@ -33,7 +33,9 @@ Here's a sentence with a footnote. [^1]
 ### My Great Heading {#custom-id
 term
 : definition
-~~The world is flat.~~
+~~The world is square.~~
 - [x] Write the press release
 - [ ] Update the website
-- [ ] Contact the media
+- [X] Contact the media
+I need to highlight these ==very important words==.
+That is so funny! :joy:
