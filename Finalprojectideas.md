@@ -12,6 +12,37 @@
 
 ### Possible idea 1:
 Robot game:
-In this game the player will spawn as a robot where they will have to solve puzzles and defeat enemies 
+In this game the player will spawn as a robot where they will have to solve puzzles and defeat enemies in various ways
+these objects will range from guns to keys with some comical elements such as toasters or clown horns.
+
+### possible idea 2:
+ragdoll game:
+This will be a silly game where the player must pick up an item and deliver it to the checkpoint, similar to octodad with the asset physics but the player will be slightly more rigid and easier to control
+the aim of the game is to do the task with as little damage done as possible. for example, the player is an office worker and they must get printer paper, however, the paper is on the other side of the map and there are
+various obsticles and people in the way.
+
+### possible idea 3:
+colony/conquering game:
+In this game the player must build up a city from a small gandful of villegers. after the colony is advanced enough they will then move onto conquering other villages to become the strongest in the region.
+
+### possible idea 4:
+Light/Dark platformer
+In this game the player will be given a torch.
+with this torch the player can light the way, but some area may be inaccessableunless the player turns off the light then some new paths will be avalible.
+
+> ### chosen idea overview:
+Roblot limb game
+In this game the player will be a little robot who wants to get back to its toybox, the little robot has removable libs in which it can switch its arms or legs out with common household objects like spatulas for hitting enemies or a cup for transfering water to water a plant to make it grow.
+This game will have alot of enviromental puzzles for instance if you need to get high up and there is a kettle you will have to fill it with water and then you can be blasted higer when it boils.
+
+## Engine
+Unreal Engine 5
+
+## Mechanics 
+
+## Prototype level
+
+## Thoughts
+
 
 
