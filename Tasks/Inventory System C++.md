@@ -1,5 +1,6 @@
 # Inventory system
 ## Bubble sort
+```cpp
 // Function to sort items by name using bubble sort (ascending/descending)
 void SortByName(std::vector<Item>& items, bool ascending = true)
 {
@@ -16,9 +17,9 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
         }
     }
 }
-
+```
 > ### output
-
+```
 { 
 Sorted by Name (Ascending):
 Bow: 120
@@ -27,9 +28,9 @@ Potion: 50
 Shield: 100
 Sword: 150 
 }
-
+```
 > ### full code
-
+'''
 #include <iostream>
 #include <vector>
 #include <string>
@@ -102,7 +103,7 @@ int main()
 
     return 0;
 }
-
+'''
 > # CHAT GPT help
 
 <img width="578" alt="{7DDD759D-E9E8-4064-BCA9-2A41667429B4}" src="https://github.com/user-attachments/assets/dcd8e2cc-10a8-464a-8fa5-2284be199e12">
