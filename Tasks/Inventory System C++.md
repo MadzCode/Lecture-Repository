@@ -19,7 +19,7 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
 }
 '''
 > ### output
-```cpp
+```
 { 
 Sorted by Name (Ascending):
 Bow: 120
