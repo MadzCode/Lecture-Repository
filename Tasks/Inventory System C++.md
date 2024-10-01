@@ -16,3 +16,13 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
     }
 }
 
+> output
+
+{ 
+Sorted by Name (Ascending):
+Bow: 120
+Helmet: 80
+Potion: 50
+Shield: 100
+Sword: 150 
+}
