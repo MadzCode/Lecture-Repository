@@ -1,4 +1,5 @@
 # Inventory system
+## Bubble sort
 // Function to sort items by name using bubble sort (ascending/descending)
 void SortByName(std::vector<Item>& items, bool ascending = true)
 {
