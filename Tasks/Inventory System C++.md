@@ -19,7 +19,7 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
 }
 ```
 > ### output
-```
+```cpp
 { 
 Sorted by Name (Ascending):
 Bow: 120
@@ -30,7 +30,7 @@ Sword: 150
 }
 ```
 > ### full code
-'''
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
@@ -103,6 +103,7 @@ int main()
 
     return 0;
 }
+'''
 '''
 > # CHAT GPT help
 
