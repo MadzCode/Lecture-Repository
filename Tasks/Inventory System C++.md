@@ -1,2 +1,18 @@
-<img width="815" alt="{DEDD1A94-986A-4CB8-9488-3225BB535FBF}" src="https://github.com/user-attachments/assets/24eda53a-1c68-4c07-8c2d-ee355c670d80">
+### Inventory system
+// Function to sort items by name using bubble sort (ascending/descending)
+void SortByName(std::vector<Item>& items, bool ascending = true)
+{
+    int n = items.size();
+    for (int i = 0; i < n - 1; ++i)
+    {
+        for (int j = 0; j < n - i - 1; ++j)
+        {
+            bool condition = ascending ? (items[j].name > items[j + 1].name) : (items[j].name < items[j + 1].name);
+            if (condition)
+            {
+                std::swap(items[j], items[j + 1]);
+            }
+        }
+    }
+}
 
