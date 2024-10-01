@@ -104,4 +104,5 @@ int main()
 
 > # CHAT GPT help
 
-<img width="352" alt="{C7A37F39-A391-4404-913F-B008334DD907}" src="https://github.com/user-attachments/assets/0eb01bf5-0ee6-4234-b4df-aad05a8a828c">
+<img width="578" alt="{7DDD759D-E9E8-4064-BCA9-2A41667429B4}" src="https://github.com/user-attachments/assets/dcd8e2cc-10a8-464a-8fa5-2284be199e12">
+
