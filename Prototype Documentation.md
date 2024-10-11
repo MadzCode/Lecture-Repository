@@ -9,4 +9,6 @@ https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
 
 # Creating the modular character
 > https://www.youtube.com/watch?v=CeaSv7eiWo8
+> ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
+
 
