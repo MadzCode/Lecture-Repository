@@ -13,5 +13,6 @@ https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
 After using this code I relised it broke my project so I will be putting that aside and focus on getting the main mechanic working
 > ![image](https://github.com/user-attachments/assets/ce7003c5-7052-4820-995d-458d69e60f3b)
+![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
 
 
