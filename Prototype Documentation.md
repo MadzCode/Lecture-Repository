@@ -11,5 +11,7 @@ https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
 > https://www.youtube.com/watch?v=CeaSv7eiWo8
 > ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
+After using this code I relised it broke my project so I will be putting that aside and focus on getting the main mechanic working
+> ![image](https://github.com/user-attachments/assets/ce7003c5-7052-4820-995d-458d69e60f3b)
 
 
