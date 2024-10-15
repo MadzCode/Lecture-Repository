@@ -15,4 +15,6 @@ After using this code I relised it broke my project so I will be putting that as
 > ![image](https://github.com/user-attachments/assets/ce7003c5-7052-4820-995d-458d69e60f3b)
 ![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
 
+# Rigging the character
+> https://www.youtube.com/watch?v=txFsPf-BlEg
 
