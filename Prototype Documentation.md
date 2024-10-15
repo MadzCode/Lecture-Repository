@@ -17,4 +17,5 @@ After using this code I relised it broke my project so I will be putting that as
 
 # Rigging the character
 > https://www.youtube.com/watch?v=txFsPf-BlEg
+![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
 
