@@ -20,3 +20,8 @@ After using this code I relised it broke my project so I will be putting that as
 ![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
 https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 
+### Week 3 - 4
+> I added some animations from Github
+> ![image](https://github.com/user-attachments/assets/d5a14f3b-69cb-4b4a-8dc5-e68e32742e12)
+>![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
+
