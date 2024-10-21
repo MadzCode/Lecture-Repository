@@ -27,3 +27,7 @@ https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 https://www.youtube.com/watch?v=qbgDaRo312k 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 https://www.youtube.com/watch?v=xfpeLRaZzJM
+> # Glitched files
+> when I try to open or move these files it breaks my game, I cannot even delete them.
+> ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
+
