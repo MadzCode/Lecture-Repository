@@ -35,5 +35,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 > After closer inspection my third person character was glitched too.
 
 >### Shooter Mechanic
->
+>https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s 
+>![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
+
 
