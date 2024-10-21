@@ -32,3 +32,4 @@ https://www.youtube.com/watch?v=xfpeLRaZzJM
 > ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
 I keep having issues with this modular system so I am going to put it on the back burner for now to focus on other things.
 > My github saves seem to be corrupted I cant go back any amount of saves as it will just crash. At this point I may scrap the modular character and focus on making a quirky platformer instead.
+> After closer inspection my third person character was glitched too.
