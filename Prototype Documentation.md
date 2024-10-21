@@ -34,6 +34,6 @@ I keep having issues with this modular system so I am going to put it on the bac
 > My github saves seem to be corrupted I cant go back any amount of saves as it will just crash. At this point I may scrap the modular character and focus on making a quirky platformer instead.
 > After closer inspection my third person character was glitched too.
 
->### Shoooter Mechanic
->![image](https://github.com/user-attachments/assets/8b2966a2-c13d-43f3-b2dc-65da414234ca)
+>### Shooter Mechanic
+>
 
