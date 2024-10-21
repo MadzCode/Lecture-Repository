@@ -37,5 +37,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 >### Shooter Mechanic
 >https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s 
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
+![image](https://github.com/user-attachments/assets/11ab56c2-2e45-423f-b484-d9f5fcb6ec8c)
+>
 
 
