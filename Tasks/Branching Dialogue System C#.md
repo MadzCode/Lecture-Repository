@@ -1,8 +1,6 @@
 ### Working Code
 '''csharp
-
-
- using System;
+using System;
 using System.Collections.Generic;
 
 // The DialogueNode class represents a single dialogue option in the tree
