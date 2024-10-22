@@ -1,5 +1,6 @@
 ### Working Code
-'''csharp
+
+```csharp
 using System;
 using System.Collections.Generic;
 
@@ -58,7 +59,7 @@ public class DialogueSystem
         DialogueNode weather = new DialogueNode("The weather is great! It's sunny outside.");
         DialogueNode directions = new DialogueNode("You need to head north and then turn left.");
         DialogueNode goodfarewell = new DialogueNode("Goodbye! Have a nice day.");
-        DialogueNode badfarewell = new DialogueNode("bye. Have a day.");
+        DialogueNode badfarewell = new DialogueNode("Bye. Have a nice day.");
 
         // Add choices to the root node
         introduction.AddChoice("Tell me about the weather.", weather);
@@ -75,7 +76,8 @@ public class DialogueSystem
         RootNode = introduction;
         CurrentNode = RootNode; // Reset the current node to the root after building the tree
     }
-// Method to start the dialogue
+
+    // Method to start the dialogue
     public void StartDialogue()
     {
         while (true)
@@ -128,4 +130,5 @@ public class Program
         dialogueSystem.StartDialogue();      // Start navigating through the dialogue
     }
 }
+
 
