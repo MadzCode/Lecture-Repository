@@ -1,5 +1,6 @@
 ### Working Code
-> using System;
+> '''csharp
+ using System;
 using System.Collections.Generic;
 
 // The DialogueNode class represents a single dialogue option in the tree
@@ -127,3 +128,4 @@ public class Program
         dialogueSystem.StartDialogue();      // Start navigating through the dialogue
     }
 }
+'''
