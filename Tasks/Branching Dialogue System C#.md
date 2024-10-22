@@ -128,4 +128,4 @@ public class Program
         dialogueSystem.StartDialogue();      // Start navigating through the dialogue
     }
 }
-'''
+
