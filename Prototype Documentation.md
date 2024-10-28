@@ -42,8 +42,12 @@ I keep having issues with this modular system so I am going to put it on the bac
 
 >## Refining the IK handles to follow the camera
 >https://www.youtube.com/watch?v=3hy7Oh7r64E
->My next plaon is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
+>My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 >https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
 >There seems to be an issue with the guns aiming as sometimes it is not that accurate.
+
+> I managed to make a anim montage for the aiming so that should assist in making it more accurate
+https://github.com/user-attachments/assets/bbfcad3b-bc4c-42ca-ad2c-c6cdebd74f44
+
 
 
