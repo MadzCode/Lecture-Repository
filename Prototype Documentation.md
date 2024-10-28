@@ -47,7 +47,8 @@ I keep having issues with this modular system so I am going to put it on the bac
 >There seems to be an issue with the guns aiming as sometimes it is not that accurate.
 
 > I managed to make a anim montage for the aiming so that should assist in making it more accurate
-https://github.com/user-attachments/assets/c72649ef-861d-4176-a2af-0b59053bcd2a
+https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
+
 
 
 
