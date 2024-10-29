@@ -59,8 +59,11 @@ I managed to fix the issue
 
 >### Basic AI Implementation
 >https://www.youtube.com/watch?v=xm-7m5Fw1HU
+>
 >https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
 
+The AI now follows me while I am in the Nav Mesh
+https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 
 
 
