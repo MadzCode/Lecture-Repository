@@ -52,6 +52,7 @@ https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 https://www.youtube.com/watch?v=EbZrfsJ1fWc
 Doesnt work
 https://github.com/user-attachments/assets/de7b60a6-4bfc-4895-bac3-95d4669c63dc
+Thought it might be an issue with the event begin play event so i changed it to activate when 'E' was pressed, half the time the drop key 'G' is unresponsive, and it only works once otherwise the gun is stuck in the hand and on the floor.
 
 
 
