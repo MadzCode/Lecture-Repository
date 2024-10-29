@@ -44,6 +44,10 @@ I keep having issues with this modular system so I am going to put it on the bac
 >
 >https://github.com/user-attachments/assets/2462a36d-6a31-4502-ae3a-d7b92543cc36
 
+> I got the gun to shoot, Now I just need to make it deal damage
+
+
+
 >## Refining the IK handles to follow the camera
 >https://www.youtube.com/watch?v=3hy7Oh7r64E
 >My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
@@ -79,6 +83,9 @@ https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 
 ### Health System
 >https://www.youtube.com/watch?v=wHXTtXdunsY
+
+Issue where player flies while dead instead of ragdolling
+
 
 
 
