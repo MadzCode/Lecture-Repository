@@ -57,6 +57,12 @@ Thought it might be an issue with the event begin play event so i changed it to 
 https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
 I managed to fix the issue
 
+>### Basic AI Implementation
+>https://www.youtube.com/watch?v=xm-7m5Fw1HU
+>https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
+
+
+
 
 
 
