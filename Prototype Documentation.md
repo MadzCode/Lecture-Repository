@@ -49,6 +49,9 @@ I keep having issues with this modular system so I am going to put it on the bac
 > I managed to make a anim montage for the aiming so that should assist in making it more accurate
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
+https://www.youtube.com/watch?v=EbZrfsJ1fWc
+Doesnt work
+
 
 
 
