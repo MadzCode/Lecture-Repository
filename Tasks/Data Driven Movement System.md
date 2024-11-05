@@ -78,3 +78,9 @@ int main()
 
     return 0;
 }
+
+### chat GPT
+i had the help of chat gpt as i was having issues getting it to work
+
+![image](https://github.com/user-attachments/assets/0e41cf33-11ea-4e0a-a607-f06124403727)
+
