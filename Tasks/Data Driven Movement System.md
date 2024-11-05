@@ -8,4 +8,4 @@ for (size_t i = 0; i < entities.size(); ++i)  // Corrected: loop over 'entities'
 entities[i].positionX += entities[i].velocityX * deltaTime;  // Corrected: use += for positionX
 entities[i].positionY += entities[i].velocityY * deltaTime;  // Corrected: use += for positionY
 entities[i].positionZ += entities[i].velocityZ * deltaTime;  // Corrected: use += for positionZ
-
+```
