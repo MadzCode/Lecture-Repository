@@ -94,3 +94,9 @@ https://www.youtube.com/watch?v=uI5ps5DbFgI
 
 https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
 
+### Week 7 to 8
+
+https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
+
+
+
