@@ -100,5 +100,13 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 
 I fixed my gun so it only shoots when picked up
 
+### Week 9 to 10
+
+Followed this tutorial 
+https://www.youtube.com/watch?v=QoVcncg7prI
+
+https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
+
+
 
 
