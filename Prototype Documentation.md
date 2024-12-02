@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=QoVcncg7prI
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
 The enemies health widget was bugged so I hid it in the game.
-I got the gun to be able to aim.
+I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
 
 
 
