@@ -29,8 +29,10 @@ I then followed this tutorial that showed me the basics of rigging bipedal model
 ### Week 3 - 4
 > I added some animations from Mixamo.
 > ![image](https://github.com/user-attachments/assets/d5a14f3b-69cb-4b4a-8dc5-e68e32742e12)
+
 >![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
-https://www.youtube.com/watch?v=qbgDaRo312k
+
+- YouTube. https://www.youtube.com/watch?v=qbgDaRo312k. Accessed 3 Dec. 2024.
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
@@ -44,7 +46,9 @@ I keep having issues with this modular system so I am going to put it on the bac
 
 >### Shooter Mechanic
 - YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
+
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
+
 ![image](https://github.com/user-attachments/assets/11ab56c2-2e45-423f-b484-d9f5fcb6ec8c)
 >
 >https://github.com/user-attachments/assets/2462a36d-6a31-4502-ae3a-d7b92543cc36
