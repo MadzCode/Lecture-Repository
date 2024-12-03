@@ -129,6 +129,12 @@ This is the final version of my prototype, there are still a few bugs such as th
 
 https://github.com/user-attachments/assets/9f2049af-9bae-45b2-bc42-0d706a3c760c
 
+### Final Thoughts
+
+This project was not what I expected to have at the end of my project as I was hoping for more. This mistake was due to constant craashes of the project and Github desktop not accepting my project. But some of it was due to poor time managemnt on my part. I was unable to balance my essay, prototype, and final group project meetings efficently and it has impacted my workflow. My nect major goal is to look at some new ways I can efficently manage my time to ensure I have the best project I could possibly make.
+
+Besides that however, I am pleased I managed to get the spawn system mainly working and fixed my gun, unfortunetly I will not be making this prototype a full fledged game at the moment; However, I find the premise interesting and may start full development in my own time.
+
 
 
 
