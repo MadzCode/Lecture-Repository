@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
 ![image](https://github.com/user-attachments/assets/ab779f1d-27fe-40a2-8040-4fdeee6c0635)
 ![image](https://github.com/user-attachments/assets/80272e56-099b-4c4a-90f3-524068e2050d)
 
+I then created a simple model of the main character, and I tried to make it resemble a robot.
+
 # Creating the modular character
 > https://www.youtube.com/watch?v=CeaSv7eiWo8
 > ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
@@ -21,8 +23,10 @@ After using this code I relised it broke my project so I will be putting that as
 > 
 https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 
+I then followed this tutorial thal showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will alow me to add physocs amd amimations to the character.
+
 ### Week 3 - 4
-> I added some animations from Github
+> I added some animations from Mixamo.
 > ![image](https://github.com/user-attachments/assets/d5a14f3b-69cb-4b4a-8dc5-e68e32742e12)
 >![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
 https://www.youtube.com/watch?v=qbgDaRo312k
@@ -44,6 +48,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 >
 >https://github.com/user-attachments/assets/2462a36d-6a31-4502-ae3a-d7b92543cc36
 
+> After deciding the scrap the modular character I decided to make the game be more like a shooter.
 > I got the gun to shoot, Now I just need to make it deal damage
 
 
