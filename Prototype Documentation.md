@@ -9,10 +9,11 @@
 
 ![image](https://github.com/user-attachments/assets/80272e56-099b-4c4a-90f3-524068e2050d)
 
-* I then created a simple model of the main character, and I tried to make it resemble a robot.
+* Then I created a simple character in Maya for my character model, I was aiming for a robot look with destinctive limbs, however, my 3D modeling is quite limited so I went for a simple look instead.
 
 # Creating the modular character
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
+* after that research I started to attempt to do the dismemberment system.
 
 ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
@@ -142,7 +143,7 @@ This project was not what I expected to have at the end of my project as I was h
 
 Besides that however, I am pleased I managed to get the spawn system mainly working and fixed my gun, unfortunetly I will not be making this prototype a full fledged game at the moment; However, I find the premise interesting and may start full development in my own time.
 
-
+### **Bibliography**
 
 
 
