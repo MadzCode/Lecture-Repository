@@ -120,7 +120,7 @@ I got the gun to be able to aim. I fixed the wave system but it will bug past wa
 
 This is the final version of my prototype, there are still a few bugs such as the ai health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave 30. However I have layed the foundation of my projec and I will be able to add of this foundation in the future and possibly be able to have another try at the modular character syetem.
 
-https://github.com/user-attachments/assets/e8bc3802-561b-4b3e-809b-a1f1a1c5e8b2
+
 
 
 
