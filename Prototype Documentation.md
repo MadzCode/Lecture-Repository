@@ -1,6 +1,6 @@
 ### Week 0 - 2
-> To start with I did some research on my limb mechanic  
-https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
+> To start with I did some research on my limb mechanic, and what I found was a dismemberment system I could modify to make detachable limbs. 
+- YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
 
 > # creating model in Maya
 > ![image](https://github.com/user-attachments/assets/222f41dc-69d2-47ef-be7d-25dfd8efda73)
@@ -10,7 +10,8 @@ https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s
 I then created a simple model of the main character, and I tried to make it resemble a robot.
 
 # Creating the modular character
-> https://www.youtube.com/watch?v=CeaSv7eiWo8
+- YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
+
 > ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
 After using this code I relised it broke my project so I will be putting that aside and focus on getting the main mechanic working
@@ -18,12 +19,12 @@ After using this code I relised it broke my project so I will be putting that as
 ![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
 
 # Rigging the character
-> https://www.youtube.com/watch?v=txFsPf-BlEg
+- YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024.
 ![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
 > 
 https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 
-I then followed this tutorial thal showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will alow me to add physocs amd amimations to the character.
+I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will alow me to add physocs amd amimations to the character.
 
 ### Week 3 - 4
 > I added some animations from Mixamo.
@@ -33,7 +34,7 @@ https://www.youtube.com/watch?v=qbgDaRo312k
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
-https://www.youtube.com/watch?v=xfpeLRaZzJM
+- YouTube. https://www.youtube.com/watch?v=xfpeLRaZzJM. Accessed 3 Dec. 2024.
 > # Glitched files
 > when I try to open or move these files it breaks my game, I cannot even delete them.
 > ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
@@ -42,7 +43,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 > After closer inspection my third person character was glitched too.
 
 >### Shooter Mechanic
->https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s 
+- YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
 ![image](https://github.com/user-attachments/assets/11ab56c2-2e45-423f-b484-d9f5fcb6ec8c)
 >
@@ -54,7 +55,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 
 
 >## Refining the IK handles to follow the camera
->https://www.youtube.com/watch?v=3hy7Oh7r64E
+- YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.
 >My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 >
 >https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
@@ -65,7 +66,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 > 
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
-https://www.youtube.com/watch?v=EbZrfsJ1fWc
+- YouTube. https://www.youtube.com/watch?v=EbZrfsJ1fWc. Accessed 3 Dec. 2024.
 Doesnt work
 
 https://github.com/user-attachments/assets/de7b60a6-4bfc-4895-bac3-95d4669c63dc
@@ -78,7 +79,7 @@ I managed to fix the issue
 
 >### Basic AI Implementation
 
->https://www.youtube.com/watch?v=xm-7m5Fw1HU
+- YouTube. https://www.youtube.com/watch?v=xm-7m5Fw1HU. Accessed 3 Dec. 2024.
 
 >https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
 
@@ -87,7 +88,7 @@ The AI now follows me while I am in the Nav Mesh
 https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 
 ### Health System
->https://www.youtube.com/watch?v=wHXTtXdunsY
+- YouTube. https://www.youtube.com/watch?v=wHXTtXdunsY. Accessed 3 Dec. 2024.
 
 Issue where player flies while dead instead of ragdolling
 
@@ -95,7 +96,7 @@ https://github.com/user-attachments/assets/8fffafd6-82f5-4282-b3ca-f039439baa1b
 
 ### Week 5 to 6
 
-https://www.youtube.com/watch?v=uI5ps5DbFgI
+- YouTube. https://www.youtube.com/watch?v=uI5ps5DbFgI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
 
@@ -108,7 +109,7 @@ I fixed my gun so it only shoots when picked up
 ### Week 9 to 10
 
 Followed this tutorial 
-https://www.youtube.com/watch?v=QoVcncg7prI
+- YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
