@@ -64,8 +64,6 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 * After deciding the scrap the modular character I decided to make the game be more like a shooter.
 * I got the gun to shoot, Now I just need to make it deal damage
 
-
-
 >## Refining the IK handles to follow the camera
 - YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
