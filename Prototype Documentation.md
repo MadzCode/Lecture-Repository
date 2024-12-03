@@ -9,14 +9,14 @@
 
 ![image](https://github.com/user-attachments/assets/80272e56-099b-4c4a-90f3-524068e2050d)
 
-I then created a simple model of the main character, and I tried to make it resemble a robot.
+* I then created a simple model of the main character, and I tried to make it resemble a robot.
 
 # Creating the modular character
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
 
 ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
-After using this code I relised it broke my project so I will be putting that aside and focus on getting the main mechanic working
+After using this code I realised it broke my project so I will be putting that aside and focus on getting the main mechanic working
  ![image](https://github.com/user-attachments/assets/ce7003c5-7052-4820-995d-458d69e60f3b)
 
 ![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
@@ -27,7 +27,7 @@ After using this code I relised it broke my project so I will be putting that as
 > 
 https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 
-I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will alow me to add physocs amd amimations to the character.
+* I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will allow me to add physics amd animations to the character.
 
 ### Week 3 - 4
 * I added some animations from Mixamo. 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
  ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
-I keep having issues with this modular system so I am going to put it on the back burner for now to focus on other things.
+* I keep having issues with this modular system so I am going to put it on the back burner for now to focus on other things.
 * My github saves seem to be corrupted I cant go back any amount of saves as it will just crash. At this point I may scrap the modular character and focus on making a quirky platformer instead.
 * After closer inspection my third person character was glitched too.
 
@@ -61,7 +61,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 
 >https://github.com/user-attachments/assets/2462a36d-6a31-4502-ae3a-d7b92543cc36
 
-*After deciding the scrap the modular character I decided to make the game be more like a shooter.
+* After deciding the scrap the modular character I decided to make the game be more like a shooter.
 * I got the gun to shoot, Now I just need to make it deal damage
 
 
@@ -74,7 +74,7 @@ I keep having issues with this modular system so I am going to put it on the bac
 >
 * There seems to be an issue with the guns aiming as sometimes it is not that accurate.
 
-* I managed to make a anim montage for the aiming so that should assist in making it more accurate
+* I managed to make an anim montage for the aiming so that should assist in making it more accurate
 > 
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
@@ -127,8 +127,8 @@ https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
 
 https://blueprintue.com/blueprint/742rb2p0/
-The enemies health widget was bugged so I hid it in the game.
-I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
+* The enemies health widget was bugged so I hid it in the game.
+* I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
 
 > ## Finished prototype
 
