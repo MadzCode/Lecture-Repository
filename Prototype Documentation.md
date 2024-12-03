@@ -116,6 +116,10 @@ https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 The enemies health widget was bugged so I hid it in the game.
 I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
 
+> ## Finished prototype
+
+This is the final version of my prototype, there are still a few bugs such as the ai health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave 30. However I have layed the foundation of my projec and I will be able to add of this foundation in the future and possibly be able to have another try at the modular character syetem.
+
 
 
 
