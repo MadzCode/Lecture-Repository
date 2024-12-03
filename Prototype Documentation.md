@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 * I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will allow me to add physics amd animations to the character.
 
 ### Week 3 - 4
-* I added some animations from Mixamo. 
+* I added some animations to my character from Mixamo. 
 
 Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 
@@ -43,9 +43,6 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
-
-* This video helped me to realise that set master pose component was changed to set leader pose component
-- YouTube. https://www.youtube.com/watch?v=xfpeLRaZzJM. Accessed 3 Dec. 2024.
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
  ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
