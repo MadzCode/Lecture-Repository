@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 
 ### Week 9 to 10
 
-Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
+* Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
 - YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
