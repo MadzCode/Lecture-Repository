@@ -42,6 +42,8 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
+
+* This video helped me to realise that set master mose conponent was changed to set leader pose component
 - YouTube. https://www.youtube.com/watch?v=xfpeLRaZzJM. Accessed 3 Dec. 2024.
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
