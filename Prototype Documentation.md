@@ -46,12 +46,14 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
  ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
+
 * I keep having issues with this modular system so I am going to put it on the back burner for now to focus on other things.
 * My github saves seem to be corrupted I cant go back any amount of saves as it will just crash. At this point I may scrap the modular character and focus on making a quirky platformer instead.
 * After closer inspection my third person character was glitched too.
 
 >### Shooter Mechanic
 - YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
+**Find this asset Pack**
 
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
 
