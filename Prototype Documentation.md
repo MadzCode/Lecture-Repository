@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 
 ### Week 9 to 10
 
-Followed this tutorial 
+Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
 - YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
@@ -132,7 +132,7 @@ I got the gun to be able to aim. I fixed the wave system but it will bug past wa
 
 > ## Finished prototype
 
-This is the final version of my prototype, there are still a few bugs such as the ai health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave 30. However I have layed the foundation of my projec and I will be able to add of this foundation in the future and possibly be able to have another try at the modular character syetem.
+This is the final version of my prototype, there are still a few bugs such as the ai health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave 30, As well as a glitch with the physics where if the gun is facing the floor there is a chance the plaeyr can be launced across the map. However I have layed the foundation of my projec and I will be able to add of this foundation in the future and possibly be able to have another try at the modular character syetem.
 
 https://github.com/user-attachments/assets/9f2049af-9bae-45b2-bc42-0d706a3c760c
 
