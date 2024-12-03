@@ -27,7 +27,10 @@ https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will alow me to add physocs amd amimations to the character.
 
 ### Week 3 - 4
-> I added some animations from Mixamo.
+> I added some animations from Mixamo. 
+
+Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
+
 > ![image](https://github.com/user-attachments/assets/d5a14f3b-69cb-4b4a-8dc5-e68e32742e12)
 
 >![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
