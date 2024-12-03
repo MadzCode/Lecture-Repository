@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
 
 https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 
-* I fixed my gun so it only shoots when picked up
+* I fixed my gun so it only shoots when picked up, This will stop cheating as the player would be able to place the gun in the arena and just shoot.
 
 ### Week 9 to 10
 
