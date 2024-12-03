@@ -144,6 +144,6 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 
 ### **Bibliography**
 
-
+**Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.**
 
 
