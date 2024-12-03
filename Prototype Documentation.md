@@ -69,13 +69,13 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 >## Refining the IK handles to follow the camera
 - YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
->
+
 >https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
->
+
 * There seems to be an issue with the guns aiming as sometimes it is not that accurate.
 
 * I managed to make an anim montage for the aiming so that should assist in making it more accurate
-> 
+
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
 - YouTube. https://www.youtube.com/watch?v=EbZrfsJ1fWc. Accessed 3 Dec. 2024.
