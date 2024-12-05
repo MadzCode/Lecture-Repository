@@ -2,7 +2,7 @@
 * To start with I did some research on my limb mechanic, and what I found was a dismemberment system I could modify to make detachable limbs. My main inspiration for this game is It takes Two (It Takes Two on Steam. https://store.steampowered.com/app/1426210/It_Takes_Two/. Accessed 5 Dec. 2024.) I liked the idea of a small toy character in a big ovesized world. In this game the characters use many different objects and I thought instead of objects the player would have attachments for its limbs to create unique weapons and a unique character design. For instance the character could have   
 
 * How To Make Dismemberment System Unreal Engine 4 by Unreal University
-- YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g47tNmkVjlQ?si=couFAD1s4SxcVxKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > # creating model in Maya
 > ![image](https://github.com/user-attachments/assets/222f41dc-69d2-47ef-be7d-25dfd8efda73)
@@ -16,7 +16,7 @@
 # Creating the modular character
 
 * How To Make Dismemberment System Unreal Engine 4 by Unreal University
-- YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g47tNmkVjlQ?si=C11Mral8xIPUgebs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * after that research I started to attempt to do the dismemberment system.
 
@@ -32,7 +32,7 @@ After using this code I realised it broke my project so I will be putting that a
 # Rigging the character
 
 * How to Use the Skeletal Rig Editor in Unreal Engine 5.3 ! By Nicolas Noseda
-- YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txFsPf-BlEg?si=nLPjOkxV6V_BIXLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
  
@@ -49,7 +49,7 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 >![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
 
 * How To Make An Animation Blueprint In Unreal Engine 5.1 | How to Animate A Character - UE5 Tutorial by Matt Aspland
-- YouTube. https://www.youtube.com/watch?v=qbgDaRo312k. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbgDaRo312k?si=2xrGmaeQy6lIxZit" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 >### Shooter Mechanic
 
 * How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
-- YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IM5IE_XiLI?si=Mz-VSTPVwoS6rV7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 **Find this asset Pack**
 
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 >## Refining the IK handles to follow the camera
 
 * How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
-- YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IM5IE_XiLI?si=FzZ33iIHFPEU0vqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 
 >https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
 * How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
-- YouTube. https://www.youtube.com/watch?v=EbZrfsJ1fWc. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EbZrfsJ1fWc?si=65sgjwwa8SJVTTHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Doesnt work
 
 https://github.com/user-attachments/assets/de7b60a6-4bfc-4895-bac3-95d4669c63dc
@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
 >### Basic AI Implementation
 
 * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
-- YouTube. https://www.youtube.com/watch?v=xm-7m5Fw1HU. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xm-7m5Fw1HU?si=448DQwNLTEYUhM88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
 
@@ -117,7 +117,7 @@ https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 ### Health System
 
 * How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
-- YouTube. https://www.youtube.com/watch?v=wHXTtXdunsY. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wHXTtXdunsY?si=C0zXvlz-bEfY4yDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Issue where player flies while dead instead of ragdolling
 
@@ -126,7 +126,7 @@ https://github.com/user-attachments/assets/8fffafd6-82f5-4282-b3ca-f039439baa1b
 ### Week 5 to 6
 
 * How To Build an Enemy Health and Damage System in Unreal Engine By Just Another Dang How To Channel
-- YouTube. https://www.youtube.com/watch?v=uI5ps5DbFgI. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uI5ps5DbFgI?si=mDWYXicXN_AwGpeN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
 
@@ -141,7 +141,7 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 * Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
 
 * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
-- YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoVcncg7prI?si=0mu6L5GegWcVSDex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
