@@ -174,7 +174,7 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 **YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.**
 
 ### * How to Use the Skeletal Rig Editor in Unreal Engine 5.3 ! By Nicolas Noseda
- ** YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024. **
+ **YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024.**
 
 ### * Unreal Engine - Making your character look in the camera's direction (My Simple Method) By Unreal DevOP
 **YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.**
