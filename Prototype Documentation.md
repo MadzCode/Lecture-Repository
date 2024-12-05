@@ -140,7 +140,7 @@ This project was not what I expected to have at the end of my project as I was h
 
 Besides that however, I am pleased I managed to get the spawn system mainly working and fixed my gun, unfortunetly I will not be making this prototype a full fledged game at the moment; However, I find the premise interesting and may start full development in my own time.
 
-### **Bibliography**
+# **Bibliography**
 
 **Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.**
 **ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations. https://zbib.org/. Accessed 5 Dec. 2024.**
