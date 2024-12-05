@@ -4,7 +4,7 @@
 * How To Make Dismemberment System Unreal Engine 4 by Unreal University
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g47tNmkVjlQ?si=couFAD1s4SxcVxKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> # creating model in Maya
+> # Creating a Model in Maya
 > ![image](https://github.com/user-attachments/assets/222f41dc-69d2-47ef-be7d-25dfd8efda73)
 
 ![image](https://github.com/user-attachments/assets/ab779f1d-27fe-40a2-8040-4fdeee6c0635)
