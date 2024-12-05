@@ -21,7 +21,8 @@
 * after that research I started to attempt to do the dismemberment system.
 
 ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
-![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
+
+<iframe src="https://blueprintue.com/render/2l48xufd/" scrolling="no" allowfullscreen></iframe>
 
 After using this code I realised it broke my project so I will be putting that aside and focus on getting the main mechanic working
 
@@ -68,7 +69,10 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 * How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IM5IE_XiLI?si=Mz-VSTPVwoS6rV7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Find this asset Pack**
+Due to Fab I cannot find this asset pack and Get an error when I try to look it up.
+
+* Military Weapons Dark By Adia Entertinment - Weapons
+https://www.fab.com/listings/480fc7b6-4b4b-42b4-829a-9690b16dcff2
 
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
 
@@ -95,6 +99,7 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axEp2ye8tWY?si=243vXHgog5Habvo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EbZrfsJ1fWc?si=65sgjwwa8SJVTTHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Doesnt work
@@ -158,6 +163,18 @@ The AI now follows me while I am in the Nav Mesh
 * The enemies health widget was bugged so I hid it in the game.
 * I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
 
+## Finalised Mechanics
+
+AI
+
+Health
+
+Weapon Damage
+
+Respawn
+
+Pickup System
+
 > ## Finished prototype
 
 This is the final version of my prototype, there are still a few bugs such as the AI health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave (30), As well as a glitch with the physics where if the gun is facing the floor there is a chance the player can be launched across the map. However I have added the foundation of my project and I will be able to use the concept of this game in the future and possibly be able to have another try at the modular character syetem.
@@ -175,6 +192,9 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 **Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.**
 
 **ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations. https://zbib.org/. Accessed 5 Dec. 2024.**
+
+**Military Weapons Dark By Adia Entertinment - Weapons**
+
 
 **It Takes Two on Steam. https://store.steampowered.com/app/1426210/It_Takes_Two/. Accessed 5 Dec. 2024.**
 
@@ -206,4 +226,5 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 
 ### * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 **YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.**
+
 
