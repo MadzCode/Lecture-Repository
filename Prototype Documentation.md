@@ -17,11 +17,14 @@
 
 * How To Make Dismemberment System Unreal Engine 4 by Unreal University
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
+
 * after that research I started to attempt to do the dismemberment system.
 
 ![image](https://github.com/user-attachments/assets/ecb826b9-ca7c-480a-bd6e-a5cc14161d42)
 ![image](https://github.com/user-attachments/assets/ede6aba1-b19f-4092-9dd1-c490dd7e70ef)
+
 After using this code I realised it broke my project so I will be putting that aside and focus on getting the main mechanic working
+
  ![image](https://github.com/user-attachments/assets/ce7003c5-7052-4820-995d-458d69e60f3b)
 
 ![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
@@ -61,7 +64,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 >### Shooter Mechanic
 
-* ow To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
+* How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 - YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
 **Find this asset Pack**
 
@@ -149,7 +152,7 @@ https://blueprintue.com/blueprint/742rb2p0/
 
 > ## Finished prototype
 
-This is the final version of my prototype, there are still a few bugs such as the ai health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave 30, As well as a glitch with the physics where if the gun is facing the floor there is a chance the plaeyr can be launced across the map. However I have layed the foundation of my projec and I will be able to add of this foundation in the future and possibly be able to have another try at the modular character syetem.
+This is the final version of my prototype, there are still a few bugs such as the AI health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave (30), As well as a glitch with the physics where if the gun is facing the floor there is a chance the player can be launched across the map. However I have added the foundation of my project and I will be able to use the concept of this game in the future and possibly be able to have another try at the modular character syetem.
 
 https://github.com/user-attachments/assets/9f2049af-9bae-45b2-bc42-0d706a3c760c
 
@@ -157,7 +160,7 @@ https://github.com/user-attachments/assets/9f2049af-9bae-45b2-bc42-0d706a3c760c
 
 This project was not what I expected to have at the end of my project as I was hoping for more. This mistake was due to constant craashes of the project and Github desktop not accepting my project. But some of it was due to poor time managemnt on my part. I was unable to balance my essay, prototype, and final group project meetings efficently and it has impacted my workflow. My nect major goal is to look at some new ways I can efficently manage my time to ensure I have the best project I could possibly make.
 
-Besides that however, I am pleased I managed to get the spawn system mainly working and fixed my gun, unfortunetly I will not be making this prototype a full fledged game at the moment; However, I find the premise interesting and may start full development in my own time.
+Besides that however, I am pleased I managed to get the spawn system mainly working and fixed my gun, unfortunetly I will not be making this prototype a full fledged game at the moment due ; However, I find the premise interesting and may start full development in my own time.
 
 # **Bibliography**
 
