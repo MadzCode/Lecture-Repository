@@ -1,5 +1,5 @@
 ### Week 0 - 2
-* To start with I did some research on my limb mechanic, and what I found was a dismemberment system I could modify to make detachable limbs. 
+* To start with I did some research on my limb mechanic, and what I found was a dismemberment system I could modify to make detachable limbs. My main inspiration for this game is It takes Two (It Takes Two on Steam. https://store.steampowered.com/app/1426210/It_Takes_Two/. Accessed 5 Dec. 2024.) I liked the idea of a small toy character in a big ovesized world. In this game the characters use many different objects and I thought instead of objects the player would have attachments for its limbs to create unique weapons and a unique character design. For instance the character could have   
 
 * How To Make Dismemberment System Unreal Engine 4 by Unreal University
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
@@ -165,7 +165,10 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 # **Bibliography**
 
 **Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.**
+
 **ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations. https://zbib.org/. Accessed 5 Dec. 2024.**
+
+**It Takes Two on Steam. https://store.steampowered.com/app/1426210/It_Takes_Two/. Accessed 5 Dec. 2024.**
 
 ### * How To Make Dismemberment System Unreal Engine 4 by Unreal University 
 **YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.**
