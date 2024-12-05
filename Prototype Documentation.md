@@ -198,7 +198,7 @@ To make sure how good my game is to play I had 9 play testers try my game. I Wil
 
 (AI Spawner Struct)
 
-![alt text](image.png)
+
 
 (Wave Data)
 
