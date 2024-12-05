@@ -155,6 +155,12 @@ To make sure how good my game is to play I had 9 play testers try my game. I Wil
 
 ‘Play Test Notes’. Google Docs, https://docs.google.com/document/d/1e5WTFOKQQFlB9-c35G0mOPBbz4n8QCzrBNdRUzxFf7s/edit?tab=t.0&usp=embed_facebook. Accessed 5 Dec. 2024.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cEgumV8U7r4?si=KgXnzY_y8u-whkLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xc5rXu_eCGQ?si=C4opG_Qra6JjLsFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jr3L-dxLfV8?si=GDdWFmAVPiljNO0D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ### Week 9 to 10
