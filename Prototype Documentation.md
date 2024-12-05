@@ -231,20 +231,15 @@ The AI now follows me while I am in the Nav Mesh
 <iframe src="https://blueprintue.com/render/nq0zeday/" scrolling="no" allowfullscreen></iframe>
 
 
-
-
-
 ### Chracter 
 
 ## BP_ThirdPersonCharacter (Pickup System / Health System / Respawn Mechanic / Aiming System / Damage AI)
 
 <iframe src="https://blueprintue.com/render/hzssy8_c/" scrolling="no" allowfullscreen></iframe>
 
-## Weapon Damage
+## Gun / Bullet
 
-## Respawn
-
-## Pickup System
+<iframe src="https://blueprintue.com/render/ujhwma4l/" scrolling="no" allowfullscreen></iframe>
 
 > ## Finished prototype
 
