@@ -37,7 +37,7 @@ After using this code I realised it broke my project so I will be putting that a
 
 ![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
  
-https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ip76rN-x1Vo?si=C24WJgMbY8mJT_q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will allow me to add physics amd animations to the character.
 
@@ -52,7 +52,7 @@ Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 * How To Make An Animation Blueprint In Unreal Engine 5.1 | How to Animate A Character - UE5 Tutorial by Matt Aspland
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qbgDaRo312k?si=2xrGmaeQy6lIxZit" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 > 
-https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ys4PgdsNPwo?si=21ZLpT34IZY_x3QK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 ![image](https://github.com/user-attachments/assets/11ab56c2-2e45-423f-b484-d9f5fcb6ec8c)
 
->https://github.com/user-attachments/assets/2462a36d-6a31-4502-ae3a-d7b92543cc36
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZI2LhaUOyak?si=4d6xELnh2iOx_pzD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * After deciding the scrap the modular character I decided to make the game be more like a shooter.
 * I got the gun to shoot, Now I just need to make it deal damage
@@ -86,24 +86,24 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 
->https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf9xeG5iNDs?si=CWJqWnI76xc-HRzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * There seems to be an issue with the guns aiming as sometimes it is not that accurate.
 
 * I managed to make an anim montage for the aiming so that should assist in making it more accurate
 
-https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axEp2ye8tWY?si=243vXHgog5Habvo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EbZrfsJ1fWc?si=65sgjwwa8SJVTTHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Doesnt work
 
-https://github.com/user-attachments/assets/de7b60a6-4bfc-4895-bac3-95d4669c63dc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bodEHC-ZY3w?si=PJOwOiAbKeXw9QbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Thought it might be an issue with the event begin play event so i changed it to activate when 'E' was pressed, half the time the drop key 'G' is unresponsive, and it only works once otherwise the gun is stuck in the hand and on the floor.
 
-https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccNEpTdy92o?si=nwAVHuhZNStlgY7v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * I managed to fix the issue
 
@@ -117,7 +117,7 @@ https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
 
 The AI now follows me while I am in the Nav Mesh
 
-https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKDgqHOD95U?si=TVWk2KAmUyChuTzh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Health System
 
@@ -127,18 +127,18 @@ https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 
 * Issue where player flies while dead instead of ragdolling
 
-https://github.com/user-attachments/assets/8fffafd6-82f5-4282-b3ca-f039439baa1b
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKDgqHOD95U?si=TVWk2KAmUyChuTzh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Week 5 to 6
 
 * How To Build an Enemy Health and Damage System in Unreal Engine By Just Another Dang How To Channel
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uI5ps5DbFgI?si=mDWYXicXN_AwGpeN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amzpKYlXY40?si=xqma9_Od6DoAlJPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Week 7 to 8
 
-https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCzB5fhyc8Q?si=XgMYnHpeG3CnLr3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * I fixed my gun so it only shoots when picked up, This will stop cheating as the player would be able to place the gun in the arena and just shoot.
 
@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoVcncg7prI?si=0mu6L5GegWcVSDex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFz5I34DLj0?si=6osZ5mBDvRbIa2hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <iframe src="https://blueprintue.com/render/742rb2p0/" scrolling="no" allowfullscreen></iframe>
@@ -162,7 +162,7 @@ https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
 This is the final version of my prototype, there are still a few bugs such as the AI health not displaying correctly, knife animations not working, the player aim offset being very janky, and the game breaking after wave (30), As well as a glitch with the physics where if the gun is facing the floor there is a chance the player can be launched across the map. However I have added the foundation of my project and I will be able to use the concept of this game in the future and possibly be able to have another try at the modular character syetem.
 
-https://github.com/user-attachments/assets/9f2049af-9bae-45b2-bc42-0d706a3c760c
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lf46OPg1Vxs?si=yr_6j0dFAU2z_Ojz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Final Thoughts
 
