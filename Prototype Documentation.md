@@ -202,7 +202,7 @@ To make sure how good my game is to play I had 9 play testers try my game. I Wil
 
 (Wave Data)
 
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/684f44c2-eac1-449d-9ace-88c63950e8bc)
 
 (Spawn Function)
 
