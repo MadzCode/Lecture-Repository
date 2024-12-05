@@ -149,6 +149,14 @@ The AI now follows me while I am in the Nav Mesh
 
 * I fixed my gun so it only shoots when picked up, This will stop cheating as the player would be able to place the gun in the arena and just shoot.
 
+### Play Testing
+
+To make sure how good my game is to play I had 9 play testers try my game. I Will showcase a few videos of these play testers.
+
+‘Play Test Notes’. Google Docs, https://docs.google.com/document/d/1e5WTFOKQQFlB9-c35G0mOPBbz4n8QCzrBNdRUzxFf7s/edit?tab=t.0&usp=embed_facebook. Accessed 5 Dec. 2024.
+
+
+
 ### Week 9 to 10
 
 * Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
@@ -260,6 +268,8 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 **ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations. https://zbib.org/. Accessed 5 Dec. 2024.**
 
 **Military Weapons Dark By Adia Entertinment - Weapons**
+
+**‘Play Test Notes’. Google Docs, https://docs.google.com/document/d/1e5WTFOKQQFlB9-c35G0mOPBbz4n8QCzrBNdRUzxFf7s/edit?tab=t.0&usp=embed_facebook. Accessed 5 Dec. 2024.**
 
 
 **It Takes Two on Steam. https://store.steampowered.com/app/1426210/It_Takes_Two/. Accessed 5 Dec. 2024.**
