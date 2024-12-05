@@ -67,6 +67,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 * How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IM5IE_XiLI?si=Mz-VSTPVwoS6rV7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Find this asset Pack**
 
 >![image](https://github.com/user-attachments/assets/76da4d3c-5951-41e0-bc46-ae725ae0df3d)
@@ -82,6 +83,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 * How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IM5IE_XiLI?si=FzZ33iIHFPEU0vqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 
 >https://github.com/user-attachments/assets/75c19d1d-2884-48da-994c-d1468c478f2b
@@ -94,6 +96,7 @@ https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
 * How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EbZrfsJ1fWc?si=65sgjwwa8SJVTTHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Doesnt work
 
 https://github.com/user-attachments/assets/de7b60a6-4bfc-4895-bac3-95d4669c63dc
@@ -107,6 +110,7 @@ https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
 >### Basic AI Implementation
 
 * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xm-7m5Fw1HU?si=448DQwNLTEYUhM88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
@@ -118,6 +122,7 @@ https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 ### Health System
 
 * How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHXTtXdunsY?si=C0zXvlz-bEfY4yDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Issue where player flies while dead instead of ragdolling
@@ -142,12 +147,14 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 * Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
 
 * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoVcncg7prI?si=0mu6L5GegWcVSDex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
 
 
-https://blueprintue.com/blueprint/742rb2p0/
+<iframe src="https://blueprintue.com/render/742rb2p0/" scrolling="no" allowfullscreen></iframe>
+
 * The enemies health widget was bugged so I hid it in the game.
 * I got the gun to be able to aim. I fixed the wave system but it will bug past wave (30)
 
