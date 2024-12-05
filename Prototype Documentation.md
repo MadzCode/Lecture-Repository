@@ -1,5 +1,7 @@
 ### Week 0 - 2
 * To start with I did some research on my limb mechanic, and what I found was a dismemberment system I could modify to make detachable limbs. 
+
+* How To Make Dismemberment System Unreal Engine 4 by Unreal University
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
 
 > # creating model in Maya
@@ -12,6 +14,8 @@
 * Then I created a simple character in Maya for my character model, I was aiming for a robot look with destinctive limbs, however, my 3D modeling is quite limited so I went for a simple look instead.
 
 # Creating the modular character
+
+* How To Make Dismemberment System Unreal Engine 4 by Unreal University
 - YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.
 * after that research I started to attempt to do the dismemberment system.
 
@@ -23,28 +27,32 @@ After using this code I realised it broke my project so I will be putting that a
 ![image](https://github.com/user-attachments/assets/07d18dc4-16f4-467d-aef2-0df9711cba98)
 
 # Rigging the character
+
+* How to Use the Skeletal Rig Editor in Unreal Engine 5.3 ! By Nicolas Noseda
 - YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024.
+
 ![image](https://github.com/user-attachments/assets/ea432f04-0668-4ac9-bedf-bc7e36472f2d)
-> 
+ 
 https://github.com/user-attachments/assets/e453731e-ba41-4406-9fa6-caabcb71139c
 
 * I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will allow me to add physics amd animations to the character.
 
 ### Week 3 - 4
 * I added some animations to my character from Mixamo. 
-
 Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.
 
 > ![image](https://github.com/user-attachments/assets/d5a14f3b-69cb-4b4a-8dc5-e68e32742e12)
 
 >![image](https://github.com/user-attachments/assets/af28787c-3498-4006-bfbc-a3349d794400)
 
+* How To Make An Animation Blueprint In Unreal Engine 5.1 | How to Animate A Character - UE5 Tutorial by Matt Aspland
 - YouTube. https://www.youtube.com/watch?v=qbgDaRo312k. Accessed 3 Dec. 2024.
 > 
 https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 > # Glitched files
 * when I try to open or move these files it breaks my game, I cannot even delete them.
+
  ![image](https://github.com/user-attachments/assets/d8d39b0f-169a-4155-acab-d0ab0ab4deb0)
 
 * I keep having issues with this modular system so I am going to put it on the back burner for now to focus on other things.
@@ -52,6 +60,8 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 * After closer inspection my third person character was glitched too.
 
 >### Shooter Mechanic
+
+* ow To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 - YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.
 **Find this asset Pack**
 
@@ -65,6 +75,8 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 * I got the gun to shoot, Now I just need to make it deal damage
 
 >## Refining the IK handles to follow the camera
+
+* How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
 - YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.
 * My next plan is to make it so the spine and/or the arm folow the camera to create a mild ragdoll effect
 
@@ -76,6 +88,7 @@ https://github.com/user-attachments/assets/5127c885-cfdf-4667-a444-03738c834265
 
 https://github.com/user-attachments/assets/148bbeac-bb3f-421f-9e56-d72610e39459
 
+* How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
 - YouTube. https://www.youtube.com/watch?v=EbZrfsJ1fWc. Accessed 3 Dec. 2024.
 Doesnt work
 
@@ -89,6 +102,7 @@ https://github.com/user-attachments/assets/75ef0e33-9972-4692-a5e1-ed0efff9fd1d
 
 >### Basic AI Implementation
 
+* Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 - YouTube. https://www.youtube.com/watch?v=xm-7m5Fw1HU. Accessed 3 Dec. 2024.
 
 >https://github.com/user-attachments/assets/f8a5b9ae-5d40-46fe-aa99-8613cf5cdbae
@@ -98,6 +112,8 @@ The AI now follows me while I am in the Nav Mesh
 https://github.com/user-attachments/assets/f65cd936-b36d-4aa8-96e9-4f6ad37cd082
 
 ### Health System
+
+* How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
 - YouTube. https://www.youtube.com/watch?v=wHXTtXdunsY. Accessed 3 Dec. 2024.
 
 * Issue where player flies while dead instead of ragdolling
@@ -106,6 +122,7 @@ https://github.com/user-attachments/assets/8fffafd6-82f5-4282-b3ca-f039439baa1b
 
 ### Week 5 to 6
 
+* How To Build an Enemy Health and Damage System in Unreal Engine By Just Another Dang How To Channel
 - YouTube. https://www.youtube.com/watch?v=uI5ps5DbFgI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/fd8035a9-685a-48f5-a76d-bcd4ecfeac22
@@ -119,6 +136,8 @@ https://github.com/user-attachments/assets/293e6b84-de8c-4f28-a846-18b2d1828337
 ### Week 9 to 10
 
 * Followed this tutorial where I learned how to properly implement a wave system. This will allow for a full gameplay loop and possibly endless gameplay.
+
+* Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 - YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.
 
 https://github.com/user-attachments/assets/e0d6fbf7-6c4a-4f93-b81d-58d8fda2810f
@@ -154,8 +173,13 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 ## How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 **YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.**
 
+## How to Use the Skeletal Rig Editor in Unreal Engine 5.3 ! By Nicolas Noseda
+- YouTube. https://www.youtube.com/watch?v=txFsPf-BlEg. Accessed 3 Dec. 2024.
+
 ## Unreal Engine - Making your character look in the camera's direction (My Simple Method) By Unreal DevOP
 **YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.**
+
+## How To Pick Up And Drop Items | Hold Items In Hand - Unreal Engine Tutorial By Matt Aspland
 
 ## The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5 By Gorka Games
 **YouTube. https://www.youtube.com/watch?v=xm-7m5Fw1HU. Accessed 3 Dec. 2024.**
@@ -168,3 +192,4 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 
 ## Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 **YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.**
+
