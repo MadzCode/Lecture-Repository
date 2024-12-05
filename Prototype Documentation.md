@@ -144,14 +144,27 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 
 **Mixamo. https://www.mixamo.com/#/. Accessed 3 Dec. 2024.**
 **ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations. https://zbib.org/. Accessed 5 Dec. 2024.**
+
+### How To Make Dismemberment System Unreal Engine 4 by Unreal University 
 **YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.**
-**YouTube. https://www.youtube.com/watch?v=g47tNmkVjlQ&t=24s. Accessed 3 Dec. 2024.**
+
+### How To Make An Animation Blueprint In Unreal Engine 5.1 | How to Animate A Character - UE5 Tutorial by Matt Aspland
 **YouTube. https://www.youtube.com/watch?v=qbgDaRo312k. Accessed 3 Dec. 2024.**
-**YouTube. https://www.youtube.com/watch?v=qbgDaRo312k. Accessed 3 Dec. 2024.**
+
+## How To Make A Third Person Shooter - Unreal Engine 5 Tutorial By Pitchfork Academy (MizzoFrizzo & Co.)
 **YouTube. https://www.youtube.com/watch?v=-IM5IE_XiLI&t=8s. Accessed 3 Dec. 2024.**
+
+## Unreal Engine - Making your character look in the camera's direction (My Simple Method) By Unreal DevOP
 **YouTube. https://www.youtube.com/watch?v=3hy7Oh7r64E. Accessed 3 Dec. 2024.**
+
+## The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5 By Gorka Games
 **YouTube. https://www.youtube.com/watch?v=xm-7m5Fw1HU. Accessed 3 Dec. 2024.**
+
+## How To Make A Health System | Unreal Engine 5 Tutorial By Fcb Dev
 **YouTube. https://www.youtube.com/watch?v=wHXTtXdunsY. Accessed 3 Dec. 2024.**
+
+## How To Build an Enemy Health and Damage System in Unreal Engine By Just Another Dang How To Channel
 **YouTube. https://www.youtube.com/watch?v=uI5ps5DbFgI. Accessed 3 Dec. 2024.**
-**YouTube. https://www.youtube.com/watch?v=uI5ps5DbFgI. Accessed 3 Dec. 2024.**
+
+## Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 **YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.**
