@@ -167,15 +167,43 @@ The AI now follows me while I am in the Nav Mesh
 
 ## Finalised Mechanics
 
-AI
+## AI
 
-Health
+* AI BP (Health / Follow PLayer / Deal & Take Damage / Death )
 
-Weapon Damage
+<iframe src="https://blueprintue.com/render/48evldbe/" scrolling="no" allowfullscreen></iframe>
 
-Respawn
+* AI Spawner
 
-Pickup System
+<iframe src="https://blueprintue.com/render/2gxk39ip/" scrolling="no" allowfullscreen></iframe>
+
+(AI Spawner Struct)
+
+![alt text](image.png)
+
+(Wave Data)
+
+![alt text](image-1.png)
+
+(Spawn Function)
+
+<iframe src="https://blueprintue.com/render/98fsdbu4/" scrolling="no" allowfullscreen></iframe>
+
+(Add Enemy To Queue)
+
+<iframe src="https://blueprintue.com/render/wr9kw5i0/" scrolling="no" allowfullscreen></iframe>
+
+(Print Enemy Amount)
+
+<iframe src="https://blueprintue.com/render/4j8r0qmo/" scrolling="no" allowfullscreen></iframe>
+
+## Health
+
+## Weapon Damage
+
+## Respawn
+
+## Pickup System
 
 > ## Finished prototype
 
