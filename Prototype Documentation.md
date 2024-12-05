@@ -177,6 +177,11 @@ The AI now follows me while I am in the Nav Mesh
 
 <iframe src="https://blueprintue.com/render/2gxk39ip/" scrolling="no" allowfullscreen></iframe>
 
+(Get Spawners)
+
+<iframe src="https://blueprintue.com/render/sniysfn4/" scrolling="no" allowfullscreen></iframe>
+
+
 (AI Spawner Struct)
 
 ![alt text](image.png)
@@ -189,15 +194,49 @@ The AI now follows me while I am in the Nav Mesh
 
 <iframe src="https://blueprintue.com/render/98fsdbu4/" scrolling="no" allowfullscreen></iframe>
 
+(Build Enemy Pool)
+
+<iframe src="https://blueprintue.com/render/q4bqmj53/" scrolling="no" allowfullscreen></iframe>
+
+(Get Enemy From Pool)
+
+<iframe src="https://blueprintue.com/render/e2z72anc/" scrolling="no" allowfullscreen></iframe>
+
 (Add Enemy To Queue)
 
 <iframe src="https://blueprintue.com/render/wr9kw5i0/" scrolling="no" allowfullscreen></iframe>
+
+(On Enemy Defeated)
+
+<iframe src="https://blueprintue.com/render/bt49q6g0/" scrolling="no" allowfullscreen></iframe>
 
 (Print Enemy Amount)
 
 <iframe src="https://blueprintue.com/render/4j8r0qmo/" scrolling="no" allowfullscreen></iframe>
 
-## BP_ThirdPersonCharacter
+(Start Wave)
+
+<iframe src="https://blueprintue.com/render/sniysfn4/" scrolling="no" allowfullscreen></iframe>
+
+(Enter Transition)
+
+<iframe src="https://blueprintue.com/render/pkts72c6/" scrolling="no" allowfullscreen></iframe>
+
+(End Wave)
+
+<iframe src="https://blueprintue.com/render/s5afftei/" scrolling="no" allowfullscreen></iframe>
+
+(New Wave)
+
+<iframe src="https://blueprintue.com/render/nq0zeday/" scrolling="no" allowfullscreen></iframe>
+
+
+
+
+
+### Chracter 
+
+## BP_ThirdPersonCharacter (Pickup System / Health System / Respawn Mechanic / Aiming System / Damage AI)
 
 <iframe src="https://blueprintue.com/render/hzssy8_c/" scrolling="no" allowfullscreen></iframe>
 
