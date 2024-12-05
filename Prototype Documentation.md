@@ -40,6 +40,7 @@ After using this code I realised it broke my project so I will be putting that a
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ip76rN-x1Vo?si=C24WJgMbY8mJT_q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 * I then followed this tutorial that showed me the basics of rigging bipedal model characters using the skeletal rig editor, this will allow me to add physics amd animations to the character.
 
 ### Week 3 - 4
