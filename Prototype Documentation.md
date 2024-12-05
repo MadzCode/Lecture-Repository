@@ -197,7 +197,9 @@ The AI now follows me while I am in the Nav Mesh
 
 <iframe src="https://blueprintue.com/render/4j8r0qmo/" scrolling="no" allowfullscreen></iframe>
 
-## Health
+## BP_ThirdPersonCharacter
+
+<iframe src="https://blueprintue.com/render/hzssy8_c/" scrolling="no" allowfullscreen></iframe>
 
 ## Weapon Damage
 
