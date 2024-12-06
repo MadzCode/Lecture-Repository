@@ -269,6 +269,10 @@ This is the final version of my prototype, there are still a few bugs such as th
 
 * Here you can download the game from itch.io
 
+## Github Page
+
+
+
 ### Final Thoughts
 
 This project was not what I expected to have at the end of my project as I was hoping for more. This mistake was due to constant craashes of the project and Github desktop not accepting my project. But some of it was due to poor time managemnt on my part. I was unable to balance my essay, prototype, and final group project meetings efficently and it has impacted my workflow. My nect major goal is to look at some new ways I can efficently manage my time to ensure I have the best project I could possibly make.
