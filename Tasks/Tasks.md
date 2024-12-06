@@ -20,7 +20,7 @@ I was placed in a group with George Scanlan and Cayleen Evans-Holmes and togethe
 
 I did some reasearch on some articles for branching dialgue systems for C# as I am not that familiar with the language. There I learnt more about Dialogue nodes and found a handy code snippet.
 
-'''csharp
+```csharp
 
 public class DialogueNode
 {
@@ -45,14 +45,15 @@ public class Choice
         NextNode = nextNode;
     }
 }
-
-'''
+```
+```
 
 with this knowlage it became easier to visualise how to implement the dialgue system and we worked together to create it.
   
 ### Working Code
 
 ```csharp
+
 using System;
 using System.Collections.Generic;
 
@@ -182,7 +183,7 @@ public class Program
         dialogueSystem.StartDialogue();      // Start navigating through the dialogue
     }
 }
-
+```
 
 ### Bibliography
 
@@ -312,6 +313,7 @@ public class DialogueSystem
     }
 }
 
+
 // The Program class starts the dialogue system
 public class Program
 {
@@ -324,9 +326,11 @@ public class Program
     }
 }
 
-'''
+```
 
 ### Reflection
+
+This task gave me a better understanding of C# and I relise how similar it is to C++ in some aspects, using this knowlage I may get into some C# programming languages such as Unity
 
 
 
