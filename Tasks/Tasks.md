@@ -124,7 +124,7 @@ int main()
 
 **ChatGPT. https://chatgpt.com. Accessed 6 Dec. 2024.**
 
-### Task 2: Educational Game Plan
+# Task 2: Educational Game Plan
 
 ## Research 
 
