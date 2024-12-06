@@ -152,7 +152,7 @@ int main()
 
 **Gluchovskis, Mindaugas. 11 Steps to Build a Successful Workflow Across Teams - Teamhood. 13 Feb. 2024, https://teamhood.com/team-performance/successful-workflow-across-teams/.**
 
-### Task 4: Branching Dialogue System
+# Task 4: Branching Dialogue System
 
 ## Research
 
