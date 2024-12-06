@@ -270,7 +270,11 @@ This is the final version of my prototype, there are still a few bugs such as th
 * Here you can download the game from itch.io
 
 ## Github Page
+Bonobo-Bandit-Studios/Robot-Version-12. 2024. Bonobo-Bandit-Studios, 6 Dec. 2024. GitHub, https://github.com/Bonobo-Bandit-Studios/Robot-Version-12.
 
+![image](https://github.com/user-attachments/assets/d296e2b3-b017-4ecf-854d-49b504b56f7a)
+
+* This is a link to my Github of my main project.
 
 
 ### Final Thoughts
@@ -322,5 +326,7 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 **YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.**
 
 ### **‘Robot Prototype by PatchyProgram’. Itch.Io, https://patchyprogram.itch.io/robot-prototype. Accessed 6 Dec. 2024.**
+
+### **Bonobo-Bandit-Studios/Robot-Version-12. 2024. Bonobo-Bandit-Studios, 6 Dec. 2024. GitHub, https://github.com/Bonobo-Bandit-Studios/Robot-Version-12.**
 
 
