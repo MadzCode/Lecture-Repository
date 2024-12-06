@@ -152,6 +152,125 @@ int main()
 
 **Gluchovskis, Mindaugas. 11 Steps to Build a Successful Workflow Across Teams - Teamhood. 13 Feb. 2024, https://teamhood.com/team-performance/successful-workflow-across-teams/.**
 
+# Task 3: Health Potion Optimization
+
+## Research
+
+* I did some research on Object Oriented Language and how I could possibly use that knowlage to better understand how I could implement a health potion system.
+
+## Development Process
+
+* I was put into a group with George Scanlan and together we experimented with if statements to try and make the health potion system.
+
+* We made some if else statementes to help make it so the health is filled to the maximum without going over.
+
+* We tried to make it so that it would output the amount of potions but that would just break the project.
+
+### Working Code
+
+```cpp
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+// Define a Potion class
+class Potion {
+public:
+    std::string name;
+    int healingValue;
+
+    Potion(std::string name, int healingValue) : name(name), healingValue(healingValue) {}
+};
+
+// Define a Player class
+class Player {
+public:
+    std::string name;
+    int currentHealth;
+    int maxHealth;
+
+    Player(std::string name, int currentHealth, int maxHealth) : name(name), currentHealth(currentHealth), maxHealth(maxHealth) {}
+};
+
+// Define a HealthPotionsSystem class
+class HealthPotionsSystem {
+public:
+    std::vector<Potion> potions;
+
+    HealthPotionsSystem() {
+        // Adding multiple potions
+        potions.push_back(Potion("Small Potion", 10));
+        potions.push_back(Potion("Medium Potion", 20));
+        potions.push_back(Potion("Large Potion", 50));
+    }
+
+    // Method to determine the optimal potions to consume for each player
+    void HealPlayers(std::vector<Player>& players) {
+        for (auto& player : players) {
+            int healthNeeded = player.maxHealth - player.currentHealth;
+            if (healthNeeded == 0) {
+                std::cout << player.name << " is already at max health!" << std::endl;
+                continue;
+            }
+
+            // Sort potions by their healing value in descending order
+            std::sort(potions.begin(), potions.end(), [](const Potion& p1, const Potion& p2) {
+                return p1.healingValue > p2.healingValue;
+            });
+
+            // Heal player with the optimal potions
+            while (player.currentHealth < player.maxHealth) {
+                if (healthNeeded >= 50) {
+                    player.currentHealth += 50;
+                } else if (healthNeeded >= 20) {
+                    player.currentHealth += 20;
+                } else if (healthNeeded >= 10) {
+                    player.currentHealth += 10;
+                } else {
+                    player.currentHealth = player.maxHealth;
+                }
+
+                if (player.currentHealth > player.maxHealth) {
+                    player.currentHealth = player.maxHealth;
+                }
+
+                std::cout << "Healing " << player.name << ": Current Health = " << player.currentHealth << ", Max Health = " << player.maxHealth << std::endl;
+                healthNeeded = player.maxHealth - player.currentHealth;
+                if (player.currentHealth < player.maxHealth) {
+                    std::cout << "Not enough potions to fully heal " << player.name << "!" << std::endl;
+                } else {
+                    std::cout << player.name << " is fully healed!" << std::endl;
+                }
+            }
+        }
+    }
+};
+
+int main() {
+    // List of multiple players
+    std::vector<Player> players = {
+        Player("Mage", 50, 100),
+        Player("Knight", 70, 100),
+        Player("Rogue", 60, 100),
+        Player("Cleric", 85, 100)
+    };
+
+    HealthPotionsSystem potionsSystem;
+    potionsSystem.HealPlayers(players); // Heal all players optimally using available potions
+
+    return 0;
+}
+```
+
+### Reflection
+
+* Even though we did not manage to get the code to output the amount of potions, we did fix the health bug and it taught me more about bug fixing in C++ as when I usually get an error it is hard for me to find the cause of it. I now know to narrow it down into smaller chunks and work from there.
+
+### Bibliography
+
+**‘Object Oriented Programming in C++’. GeeksforGeeks, 8 Aug. 2015, https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/.**
+
 # Task 4: Branching Dialogue System
 
 ## Research
