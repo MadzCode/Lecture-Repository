@@ -130,13 +130,29 @@ int main()
 
 ## Research 
 
+* For this Trello board I researched steps on how to achieve good workflow such as setting smart goals for the team and not overloading them, mapping out the workflow design which is what I did with the Trello Board and designating roles in the team so nobody is outside of their comfort zone and is able to work effectivlty. 
+
 ## Development Process
 
-## Working Code
+* For the first sprint It was for allowing the team to get a feel for one another and start production on their different mechanics.
+
+* The second sprint was for making the game be in a testable state, e.g. creating animations and finalising core gameplay.
+
+* The third sprint was for polishing the game and finalising all of gameplay so it is ready to be published.
+
+## Trello Board
+
+![image](https://github.com/user-attachments/assets/25628bbd-72b6-460f-9683-85398b81ee0f)
 
 ## Reflection
 
+* Creating this board allowed me to better visualise how group workflows will work. This will be especially helpful for my final project where I will be working on a group project.
+
 ## Bibliography
+
+**Trello. https://trello.com/b/if69IpyM. Accessed 6 Dec. 2024.**
+
+**Gluchovskis, Mindaugas. 11 Steps to Build a Successful Workflow Across Teams - Teamhood. 13 Feb. 2024, https://teamhood.com/team-performance/successful-workflow-across-teams/.**
 
 ### Task 4: Branching Dialogue System
 
