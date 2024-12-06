@@ -18,7 +18,7 @@
 
 ### Chat GPT Code
 
-'''cpp
+```cpp
 // Function to sort items by name using bubble sort (ascending/descending)
 void SortByName(std::vector<Item>& items, bool ascending = true)
 {
@@ -36,7 +36,7 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
     }
 }
 
-'''
+```
 
 ## Working Code
 
