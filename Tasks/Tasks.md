@@ -4,7 +4,7 @@
 
 [2204696]
 
-### Task 1: Inventory Sorting
+# Task 1: Inventory Sorting
 
 ## Research
 
