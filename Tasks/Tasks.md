@@ -828,6 +828,257 @@ int main()
 
 **Ivaylo. ‘Data Oriented Design: A Way of Thinking’. Hello C++, 1 Oct. 2020, https://hellocplusplus.com/data-oriented-design/.**
 
+# Task 7: Character Creator
+
+## Research
+
+* I couldn't find much information outside of forums to find the solution to my problem, however, the premise of their game is similar to mine so hopefully I will be able to use that to create a working character creator. 
+
+## Development Process
+
+* I feel a bit out of my depth with the character creator as I have never done anything like it before, so I will attempt it but I am unsure in whether I can do it.
 
 
+### Chat GPT Code 
+
+```cpp
+
+std::vector<Item> equippedItems;  // Added to store equipped items
+
+// Method to equip an item and modify stats accordingly
+void EquipItem(const Item& item)
+{
+    equippedItems.push_back(item);
+    strength += item.strengthModifier;
+    agility += item.agilityModifier;
+    endurance += item.enduranceModifier;
+}
+```
+
+```cpp
+
+static Character* CreateCharacter(const std::string& name, CharacterClass charClass)
+{
+    Character* character = new Character(name, charClass);
+
+    // Example: Adjust base stats based on character class
+    switch (charClass)
+    {
+    case CharacterClass::Warrior:
+        character->strength += 10;
+        character->endurance += 5;
+        break;
+    case CharacterClass::Rogue:
+        character->agility += 10;
+        character->speed += 5;
+        break;
+    // Add cases for other classes with their unique stat boosts
+    default:
+        break;
+    }
+
+    return character;
+}
+```
+```cpp
+
+// Decorator for adding abilities or modifiers to characters
+class CharacterDecorator : public Character
+{
+protected:
+    Character* character;
+
+public:
+    CharacterDecorator(Character* c) : Character(c->name, c->characterClass), character(c) {}
+
+    virtual void PrintCharacterInfo() override
+    {
+        character->PrintCharacterInfo();
+    }
+};
+
+// Example concrete decorator to modify character stats
+class EnchantedArmor : public CharacterDecorator
+{
+public:
+    EnchantedArmor(Character* c) : CharacterDecorator(c) {}
+
+    void EquipArmor(Item& item)
+    {
+        character->EquipItem(item);
+    }
+};
+```
+
+
+## Working Code
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+// Define the character classes
+enum class CharacterClass
+{
+    Warrior,
+    Rogue,
+    Mage,
+    Wizard,
+    Ranger,
+    Monk,
+    Bard,
+    Paladin,
+    Cleric
+};
+
+// Define item types
+enum class ItemType
+{
+    Weapon,
+    Armor,
+    Accessory
+};
+
+// Item class to represent items that can be equipped by characters
+class Item
+{
+public:
+    std::string name;
+    ItemType itemType;
+    int strengthModifier, agilityModifier, enduranceModifier;
+
+    Item(std::string n, ItemType type, int strMod, int agiMod, int endMod)
+        : name(n), itemType(type), strengthModifier(strMod), agilityModifier(agiMod), enduranceModifier(endMod) {}
+};
+
+// Character base class
+class Character
+{
+public:
+    std::string name;
+    CharacterClass characterClass;
+    int strength, agility, endurance, intelligence, willpower, speed, luck;
+    std::vector<Item> equippedItems;
+
+    Character(std::string n, CharacterClass c)
+        : name(n), characterClass(c), strength(5), agility(5), endurance(5),
+          intelligence(5), willpower(5), speed(5), luck(5) {}
+
+    virtual void PrintCharacterInfo()
+    {
+        std::cout << "Name: " << name << ", Class: " << static_cast<int>(characterClass) << std::endl;
+        std::cout << "Strength: " << strength << ", Agility: " << agility
+                  << ", Endurance: " << endurance << ", Intelligence: " << intelligence
+                  << ", Willpower: " << willpower << ", Speed: " << speed
+                  << ", Luck: " << luck << std::endl;
+
+        if (!equippedItems.empty())
+        {
+            std::cout << "Equipped Items:" << std::endl;
+            for (const auto& item : equippedItems)
+            {
+                std::cout << "  " << item.name << " (Str: " << item.strengthModifier
+                          << ", Agi: " << item.agilityModifier << ", End: " << item.enduranceModifier << ")" << std::endl;
+            }
+        }
+    }
+
+    virtual ~Character() = default;
+
+    // Method to equip an item and modify stats accordingly
+    void EquipItem(const Item& item)
+    {
+        equippedItems.push_back(item);
+        strength += item.strengthModifier;
+        agility += item.agilityModifier;
+        endurance += item.enduranceModifier;
+    }
+};
+
+// Factory for character creation
+class CharacterFactory
+{
+public:
+    static Character* CreateCharacter(const std::string& name, CharacterClass charClass)
+    {
+        Character* character = new Character(name, charClass);
+
+        // Example: Adjust base stats based on character class
+        switch (charClass)
+        {
+        case CharacterClass::Warrior:
+            character->strength += 10;
+            character->endurance += 5;
+            break;
+        case CharacterClass::Rogue:
+            character->agility += 10;
+            character->speed += 5;
+            break;
+        // Add cases for other classes with their unique stat boosts
+        default:
+            break;
+        }
+
+        return character;
+    }
+};
+
+// Decorator for adding abilities or modifiers to characters
+class CharacterDecorator : public Character
+{
+protected:
+    Character* character;
+
+public:
+    CharacterDecorator(Character* c) : Character(c->name, c->characterClass), character(c) {}
+
+    virtual void PrintCharacterInfo() override
+    {
+        character->PrintCharacterInfo();
+    }
+};
+
+// Example concrete decorator to modify character stats
+class EnchantedArmor : public CharacterDecorator
+{
+public:
+    EnchantedArmor(Character* c) : CharacterDecorator(c) {}
+
+    void EquipArmor(Item& item)
+    {
+        character->EquipItem(item);
+    }
+};
+
+int main()
+{
+    // Create a character using the factory
+    Character* myCharacter = CharacterFactory::CreateCharacter("Aragorn", CharacterClass::Warrior);
+
+    // Create some items
+    Item sword("Sword of Strength", ItemType::Weapon, 5, 0, 0);
+    Item shield("Shield of Endurance", ItemType::Armor, 0, 0, 5);
+
+    // Equip items
+    myCharacter->EquipItem(sword);
+    myCharacter->EquipItem(shield);
+
+    // Print character info
+    myCharacter->PrintCharacterInfo();
+
+    // Cleanup
+    delete myCharacter;
+
+    return 0;
+}
+```
+
+## Reflection
+
+* I had to once again rely on Chat GPT because I couldn't figure out the issue on my own. These tasks have shown me I am lacking in C++ knowlage I should have. Over the Christmas holidays I will make sure I practice at least some C++ everyday to make sure I have good knowlage of the language
+
+## Bibliography
+
+**Creating Game Character Using Class - C++ Forum. https://cplusplus.com/forum/beginner/232335/. Accessed 6 Dec. 2024.**
 
