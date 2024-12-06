@@ -14,7 +14,7 @@
 
 ## Development Process
 
-after some experimentation I realised I was struggling with creating the bubble sort system so I looked to Chat GPT for help and it gave me a code snippet that helped me in fixing the code.
+* After some experimentation I realised I was struggling with creating the bubble sort system so I looked to Chat GPT for help and it gave me a code snippet that helped me in fixing the code.
 
 ### Chat GPT Code
 
@@ -40,7 +40,7 @@ void SortByName(std::vector<Item>& items, bool ascending = true)
 
 ## Working Code
 
-'''cpp
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
@@ -114,7 +114,11 @@ int main()
     return 0;
 }
 
-'''
+```
+
+## Reflection
+
+* Even though I struggled to complete this task by myself, I learned more about bubble sort and how to use bubble sort 
 
 ## Bibliography
 
@@ -133,9 +137,9 @@ int main()
 
 ## Development Process
 
-I was placed in a group with George Scanlan and Cayleen Evans-Holmes and together we discussed how we were going to make different outcomes for the dialgue system with one successful and one failure path.
+* I was placed in a group with George Scanlan and Cayleen Evans-Holmes and together we discussed how we were going to make different outcomes for the dialgue system with one successful and one failure path.
 
-I did some reasearch on some articles for branching dialgue systems for C# as I am not that familiar with the language. There I learnt more about Dialogue nodes and found a handy code snippet.
+* I did some reasearch on some articles for branching dialgue systems for C# as I am not that familiar with the language. There I learnt more about Dialogue nodes and found a handy code snippet.
 
 ```csharp
 
@@ -165,7 +169,7 @@ public class Choice
 ```
 ```
 ```
-with this knowlage it became easier to visualise how to implement the dialgue system and we worked together to create it.
+* with this knowlage it became easier to visualise how to implement the dialgue system and we worked together to create it.
   
 ### Working Code
 
@@ -304,7 +308,7 @@ public class Program
 
 ### Reflection
 
-This task gave me a better understanding of C# and I relise how similar it is to C++ in some aspects, using this knowlage I may get into some C# programming languages such as Unity
+* This task gave me a better understanding of C# and I relise how similar it is to C++ in some aspects, using this knowlage I may get into some C# programming languages such as Unity
 
 ### Bibliography
 
