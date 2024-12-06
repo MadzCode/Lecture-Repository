@@ -261,6 +261,14 @@ This is the final version of my prototype, there are still a few bugs such as th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lf46OPg1Vxs?si=yr_6j0dFAU2z_Ojz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Itch.io page
+
+![image](https://github.com/user-attachments/assets/91eb2d53-1be9-4d4e-a3be-37f28cc3af8f)
+
+‘Robot Prototype by PatchyProgram’. Itch.Io, https://patchyprogram.itch.io/robot-prototype. Accessed 6 Dec. 2024.
+
+* Here you can download the game from itch.io
+
 ### Final Thoughts
 
 This project was not what I expected to have at the end of my project as I was hoping for more. This mistake was due to constant craashes of the project and Github desktop not accepting my project. But some of it was due to poor time managemnt on my part. I was unable to balance my essay, prototype, and final group project meetings efficently and it has impacted my workflow. My nect major goal is to look at some new ways I can efficently manage my time to ensure I have the best project I could possibly make.
@@ -308,5 +316,7 @@ Besides that however, I am pleased I managed to get the spawn system mainly work
 
 ### * Unreal Engine 5 Tutorial - Wave Mode Part 1: Spawners By Ryan Laley
 **YouTube. https://www.youtube.com/watch?v=QoVcncg7prI. Accessed 3 Dec. 2024.**
+
+### **‘Robot Prototype by PatchyProgram’. Itch.Io, https://patchyprogram.itch.io/robot-prototype. Accessed 6 Dec. 2024.**
 
 
