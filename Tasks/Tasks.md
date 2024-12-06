@@ -1,5 +1,3 @@
-# [BRANCHING DIALOGUE SYSTEM]
-
 [FGCT6023: Advanced Games Programming]
 
 [Madeleine Thomas]
