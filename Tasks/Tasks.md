@@ -6,7 +6,7 @@
 
 [2204696]
 
-### Task 1 Inventory Sorting
+### Task 1: Inventory Sorting
 
 ## Research
 
@@ -126,8 +126,19 @@ int main()
 
 **ChatGPT. https://chatgpt.com. Accessed 6 Dec. 2024.**
 
+### Task 2: Educational Game Plan
 
-### Task 4 Branching Dialogue System
+## Research 
+
+## Development Process
+
+## Working Code
+
+## Reflection
+
+## Bibliography
+
+### Task 4: Branching Dialogue System
 
 ## Research
 
